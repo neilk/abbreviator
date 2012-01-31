@@ -1,0 +1,5 @@
+Set of regular expressions to abbreviate short texts.
+
+I used this algorithm for another script which texts me Craigslist subject lines which match certain criteria. To save space in the text, words are abbreviated thus.
+
+
