@@ -1,3 +1,3 @@
-A perl script with a set of regular expressions to abbreviate short texts for use in SMS.
+A perl script that uses regular expressions to abbreviate short texts for use in SMS.
 
 I used this algorithm for another script which texts me Craigslist subject lines which match certain criteria. To save characters in the text, words are abbreviated thus.
